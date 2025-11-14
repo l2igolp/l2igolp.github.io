@@ -10,7 +10,7 @@ sections:
       title: |
         L2I Team
       image:
-        filename: welcome.jpg
+        filename: welcome.png
       text: |
         <br>
         Welcome to the L2I team webpage. 
