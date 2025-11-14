@@ -9,24 +9,23 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        Are you a student interested in working with us? Check the <a href="https://golp.ist.utl.pt/#opps">GoLP webpage</a> for our calendar of research opportunities.
+        Are you a PhD student / post-doc / researcher / visitor interested in knowing more about our work? Please get in touch using the channels below.
+      email: goncalo.figueira@tecnico.ulisboa.pt
+      phone: +351 218 419 375
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
+        street: Complexo Interdisciplinar, Instituto Superior Técnico, Av. Rovisco Pais
+        city: Lisbon
+        region: 
+        postcode: '1049-001'
+        country: Portugal
         country_code: US
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '38.7361'
+        longitude: '-9.1401'
+      directions: Enter Building and ask the receptionist to call your host
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+      appointment_url: 
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -38,7 +37,7 @@ sections:
     
       # Email form provider
       form:
-        provider: netlify
+        provider: 
         formspree:
           id:
         netlify:
@@ -56,7 +55,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: l2i-1.png
           filters:
             brightness: 1
           parallax: false

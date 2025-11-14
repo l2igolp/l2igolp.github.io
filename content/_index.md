@@ -8,21 +8,23 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        L2I Team
       image:
         filename: welcome.jpg
       text: |
         <br>
+        Welcome to the L2I team webpage. 
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        We are part of the <a href="http://golp.ist.utl.pt/">Group for Lasers and Plasmas</a>, <a href="http://ipfn.tecnico.ulisboa.pt/">IPFN</a>, <a href="http://tecnico.ulisboa.pt/">IST</a>.
+
+        We develop and use state-of-the-art lasers and optical tools. Our research focuses on ultrafast science, nonlinear optics, and ultrashort laser technology, advancing fundamental understanding and cutting-edge applications.
   
   - block: collection
     content:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 4
       filters:
         author: ''
         category: ''
@@ -33,8 +35,8 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
-      columns: '1'
+      view: compact
+      columns: '2'
   
   - block: markdown
     content:
@@ -45,7 +47,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: l2i-5.png
           filters:
             brightness: 1
           parallax: false

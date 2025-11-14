@@ -8,4 +8,8 @@ view: compact
 banner:
   caption: ''
   image: ''
+design:
+  columns: "2"
+content:
+  count: 4
 ---

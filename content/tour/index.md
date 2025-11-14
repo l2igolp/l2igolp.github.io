@@ -8,32 +8,32 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Welcome to L2I
+        content: Advancing laser science, technology, and applications
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: welcome.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: State-of-the-art lasers
+        content: Ultrafast, high repetition rate sources, from the visible to the mid-IR
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: l2i-3.png
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Bright minds. Brilliant light. Since 1998.
+        content: Ready to explore the science of light with us?
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: l2i-4.png
             filters:
               brightness: 0.5
           position: center

@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night:
   font: native
-  font_size: L
+  font_size: 1.0rem
 
 # SEO
 
@@ -41,16 +41,21 @@ header:
     show_search: true
     highlight_active_link: false
 
+logo:
+  text: ""
+  image: "logo.png"   # must match your file name
+  alt_text: "L2I logo"
+
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} L2I Team. All rights reserved.'
     license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    #  enable: true
+    #  allow_derivatives: false
+    #  share_alike: true
+    #  allow_commercial: false
 
 # Localization
 
