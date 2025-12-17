@@ -16,6 +16,7 @@ sections:
           - PhD Students
           - MSc Students
           - Undergraduate Students
+          - Lab Technician
           - Visitors
           - Alumni
       sort_by: Params.last_name

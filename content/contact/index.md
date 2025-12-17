@@ -10,6 +10,7 @@ sections:
       title: Contact
       text: |-
         Are you a student interested in working with us? Check the <a href="https://golp.ist.utl.pt/#opps">GoLP webpage</a> for our calendar of research opportunities.
+
         Are you a PhD student / post-doc / researcher / visitor interested in knowing more about our work? Please get in touch using the channels below.
       email: goncalo.figueira@tecnico.ulisboa.pt
       phone: +351 218 419 375
@@ -23,7 +24,7 @@ sections:
       coordinates:
         latitude: '38.7361'
         longitude: '-9.1401'
-      directions: Enter Building and ask the receptionist to call your host
+      directions: The nearest Metro stations are Saldanha / Alameda (10 min walk). The Complexo Interdisciplinar building is on the SW corner of the campus. Once inside ask the receptionist to contact your host.
       office_hours:
       appointment_url: 
       #contact_links:

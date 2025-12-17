@@ -21,21 +21,19 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ultrafast and nonlinear optics
+  - Optical parametric amplifiers
+  - Optical design and laser systems
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Physics
+      institution: University of Lisbon
+      year: 2026 (exp)
+
+    - course: MSc in Physics Engineering
+      institution: IST, University of Lisbon
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -88,12 +86,7 @@ user_groups:
       #  - Alumni
 ---
 
-Gonçalo Figueira is an Associate Professor at the <a href="https://fisica.tecnico.ulisboa.pt/en/">Physics Department</a> of <a href="https://tecnico.ulisboa.pt/en/">IST</a>, <a href="https://www.ulisboa.pt/en">University of Lisbon</a> and a Senior Researcher at <a href="https://www.ipfn.tecnico.ulisboa.pt/">IPFN</a>.
+Gonçalo Figueira is a PhD student at GoLP/IPFN, supervised by Hugo Pires and Gonçalo Figueira.
+He joined GoLP in 2020 as an intern, and in the following year started his MSc thesis in nonlinear optics in the mid-infrared. 
 
-For the past 30 years he has been working in high-power, ultrafast laser science and technology. During his PhD he developed a terawatt laser system based on CPA, one of the first in Europe.
-
-He played a leading role in the design and operation of the Laboratory for Intense Lasers at IST and introduced new lines of laser R&D, such as ultrabroadband amplification, diode-pumped solid-state amplifiers, and advanced ultrashort diagnostics for innovative pulse shapes.
-
-He currently leads the research in his laboratory exploring the new mid-infrared laser system. In the framework of the Portuguese Roadmap of Research Infrastructures, he led the creation of the Laserlab-Portugal consortium.
-
-In teaching, for the past 10 years he has been in charge of courses for undergraduate Physics Engineering students such as Optics & Lasers and Introductory Experimental Physics.
+In 2022 he started his PhD in Physics after winning a competitive international call for a PhD scholarship (APPLAuSE). This program included a 6 month secondment at the CLF / Rutherford Appleton Laboratory (UK)), during which he designed and simulated a front-end system for VULCAN 20-20 project, whose goal is to develop a 20 PW beamline.

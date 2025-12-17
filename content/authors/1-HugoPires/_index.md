@@ -21,21 +21,38 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ultrafast optics
+  - Optical parametric amplification
+  - Mid-IR laser technology
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Postdoc researcher
+      institution: ICFO Barcelona
+      year: 2015-16
+      
+    - course: PhD in Physics
+      institution: University of Lisbon
+      year: 2015
+
+    - course: MSc in Physics Engineering
+      institution: IST, University of Lisbon
       year: 2008
+
+positions:
+  courses:
+    - course: Postdoc researchera
+      institution: ICFO Barcelona
+      year: 2015-16
+      
+    - course: PhD in Physics
+      institution: University of Lisbon
+      year: 2015
+
+    - course: MSc in Physics Engineering
+      institution: IST, University of Lisbon
+      year: 2008
+    
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -63,6 +80,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/hugo-pires-76401731/
+  - icon: cv
+    icon_pack: ai
+    link: https://www.cienciavitae.pt/portal/321D-854E-C4AC
     
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -81,13 +101,8 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
+Hugo Pires is an Assistant Researcher at <a href="https://www.ipfn.tecnico.ulisboa.pt/">IPFN</a> and Invited Assistant Professor at the <a href="https://fisica.tecnico.ulisboa.pt/en/">Physics Department</a> of <a href="https://tecnico.ulisboa.pt/en/">IST</a>. 
 
-Gonçalo Figueira is an Associate Professor at the <a href="https://fisica.tecnico.ulisboa.pt/en/">Physics Department</a> of <a href="https://tecnico.ulisboa.pt/en/">IST</a>, <a href="https://www.ulisboa.pt/en">University of Lisbon</a> and a Senior Researcher at <a href="https://www.ipfn.tecnico.ulisboa.pt/">IPFN</a>.
+He worked as a posdoctoral researcher at ICFO Barcelona, in the Attosecond Ultrafast Optics group (2014-2015) and then at IPFN (2016-2018), where he become Assistant Researcher in 2019. 
 
-For the past 30 years he has been working in high-power, ultrafast laser science and technology. During his PhD he developed a terawatt laser system based on CPA, one of the first in Europe.
-
-He played a leading role in the design and operation of the Laboratory for Intense Lasers at IST and introduced new lines of laser R&D, such as ultrabroadband amplification, diode-pumped solid-state amplifiers, and advanced ultrashort diagnostics for innovative pulse shapes.
-
-He currently leads the research in his laboratory exploring the new mid-infrared laser system. In the framework of the Portuguese Roadmap of Research Infrastructures, he led the creation of the Laserlab-Portugal consortium.
-
-In teaching, for the past 10 years he has been in charge of courses for undergraduate Physics Engineering students such as Optics & Lasers and Introductory Experimental Physics.
+He was awarded the "Excellent Teacher" distinction at IST in 2020, 2022 and 2023. He published over 20 articles in journals, supervised four MSc theses, co-supervised one Ph.D. thesis and is supervising one PhD thesis presently.

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: José Miguel
+title: Catarina Jara
 
 # Full Name (for SEO)
-first_name: José
-last_name: Miguel
+first_name: Catarina
+last_name: Jara
 
 # Is this the primary user of the site?
 superuser: false
@@ -27,12 +27,10 @@ interests:
 
 education:
   courses:
-    - course: Msc in Physics Engineering
-      institution: IST, University of Lisbon
-      year: 2012
+    
     - course: Bsc in Physics Engineering
       institution: IST, University of Lisbon
-      year: 2009
+      year: 2026 (exp.)
     #- course: BSc in Artificial Intelligence
     #  institution: Massachusetts Institute of Technology
     #  year: 2008
@@ -44,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jose.valentim.miguel@tecnico.ulisboa.pt'
+    link: 'mailto:catarinajara@tecnico.ulisboa.pt'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
