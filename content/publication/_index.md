@@ -1,6 +1,18 @@
 ---
 title: "Publications"
 summary: "Our latest outputs."
+design:
+  view: citation
+  search: false
+search:
+  enabled: false
+
+content:
+  filters:
+    page_type: publication
+  count: 50
+  show_more_link: false
+
 ---
 <h1>2024</h1>
 <ol>

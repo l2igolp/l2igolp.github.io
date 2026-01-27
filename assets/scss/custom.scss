@@ -16,3 +16,25 @@ body.author.superuser .article-widget {
 .article-widget {
   display: none !important;
 }
+
+/* Hide the publication search + filter bar */
+.blox-publication .form-row,
+.blox-publication .pub-filters,
+.blox-publication .filter-search {
+  display: none !important;
+}
+
+body.publication .blox-publication .form-row {
+  display: none !important;
+}
+
+/* Force-hide the publication search input + filters anywhere on the site */
+input.filter-search,
+select.pub-filters,
+.form-row.mb-4 {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
