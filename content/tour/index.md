@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Bright minds. Brilliant light. Since 1998.
+      - title: Bright minds. Brilliant light.
         content: Ready to explore the science of light with us?
         align: right
         background:

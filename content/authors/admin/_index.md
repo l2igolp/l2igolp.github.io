@@ -9,6 +9,7 @@ last_name: Figueira
 # Is this the primary user of the site?
 superuser: true
 
+
 # Role/position
 role: Associate Professor
 
@@ -34,6 +35,7 @@ education:
       institution: IST, University of Lisbon
       year: 1994
     
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -81,9 +83,12 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigator
+
+show_activity: false
+
 ---
 
-Gonçalo Figueira is an Associate Professor at the <a href="https://fisica.tecnico.ulisboa.pt/en/">Physics Department</a> of <a href="https://tecnico.ulisboa.pt/en/">IST</a>, <a href="https://www.ulisboa.pt/en">University of Lisbon</a> and a Senior Researcher at <a href="https://www.ipfn.tecnico.ulisboa.pt/">IPFN</a>.
+Gonçalo Figueiraa is an Associate Professor at the <a href="https://fisica.tecnico.ulisboa.pt/en/">Physics Department</a> of <a href="https://tecnico.ulisboa.pt/en/">IST</a>, <a href="https://www.ulisboa.pt/en">University of Lisbon</a> and a Senior Researcher at <a href="https://www.ipfn.tecnico.ulisboa.pt/">IPFN</a>.
 
 For the past 30 years he has been working in high-power, ultrafast laser science and technology. During his PhD he developed a terawatt laser system based on CPA, one of the first in Europe.
 
